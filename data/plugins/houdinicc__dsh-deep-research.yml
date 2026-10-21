@@ -1,0 +1,6 @@
+url: https://github.com/houdinicc/dsh-deep-research
+name: houdinicc/dsh-deep-research
+category: ui
+description:
+  en: Deep-research panel in the sidebar that turns one question into multi-query search, source fetching, cross-checked evidence passages and a cited evidence report with history, plus a matching deep_research agent tool.
+  zh: 侧边栏里的深度研究面板：一个问题生成多查询检索、正文取证、交叉印证与带引用的证据报告并保留历史，另提供同名 deep_research Agent 工具。
